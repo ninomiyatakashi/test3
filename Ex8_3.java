@@ -10,14 +10,14 @@ public class Ex8_3 {
 		int i =1;
 		int total = 0;
 		
-		while(i<=10){
+		while(i<=20){
 			
 			total += +i;
 			
 			i++;
 		}
 		
-		System.out.println("1～10の合計=" + total);
+		System.out.println("1～20の合計=" + total);
 		// TODO Auto-generated method stub
 
 	}
